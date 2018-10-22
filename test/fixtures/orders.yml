@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total: 9.99
+  item_count: 1
+  currency: MyString
+  bill_to: MyString
+  ship_to: MyString
+  order_status: MyString
+  shop: one
+
+two:
+  total: 9.99
+  item_count: 1
+  currency: MyString
+  bill_to: MyString
+  ship_to: MyString
+  order_status: MyString
+  shop: two
