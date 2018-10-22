@@ -1,6 +1,6 @@
 # Online-Store
 
-* Fully supports CRUD operations for shops, orders, products, and line items. You can find API documentation and examples on interacting with the endpoints <a href="https://documenter.getpostman.com/view/5664312/RWguxcHq" >visit here</a>.
+* Fully supports CRUD operations for shops, orders, products, and line items. You can find API documentation and examples of interacting with the endpoints <a href="https://documenter.getpostman.com/view/5664312/RWguxcHq" >here</a>.
 
 * Ruby version 2.5.1, Rails version  5.2.1
 
